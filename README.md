@@ -1,0 +1,1 @@
+This repository contain all related learning materials and excercices from the course of Web Scraping in Python and API Fundamentals. Besides all personal excercices where I scraped data from RotternTomatoes and others. Next, I will be updating the repository with WebScraping projects along with data analysis of interest.
